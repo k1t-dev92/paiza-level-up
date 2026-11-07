@@ -12,4 +12,5 @@ My JavaScript solutions to the [paiza Level Up](https://paiza.jp/works/mondai) p
 | --------------------------- | ------------------------ |
 | `algorithms/`               | Standard algorithm menus |
 | `algorithms/binary-search/` | Binary search problems   |
+| `algorithms/prefix-sum/`    | Prefix sum problems      |
 | `algorithms/stack-queue/`   | Stack and queue problems |
