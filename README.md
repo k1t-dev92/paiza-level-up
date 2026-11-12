@@ -23,4 +23,3 @@ Each solution reads from standard input, as on paiza.
 ```sh
 node algorithms/binary-search/<file>.js < input.txt
 ```
-
