@@ -11,6 +11,7 @@ My JavaScript solutions to the [paiza Level Up](https://paiza.jp/works/mondai) p
 | Directory                   | Description                  |
 | --------------------------- | ---------------------------- |
 | `algorithms/`               | Standard algorithm menus     |
+| `algorithms/bfs-dfs/`       | BFS and DFS problems         |
 | `algorithms/binary-search/` | Binary search problems       |
 | `algorithms/prefix-sum/`    | Prefix sum problems          |
 | `algorithms/stack-queue/`   | Stack and queue problems     |
