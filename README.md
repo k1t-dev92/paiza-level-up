@@ -19,8 +19,8 @@ My JavaScript solutions to the [paiza Level Up](https://paiza.jp/works/mondai) p
 
 ## Usage
 
-Each solution reads from standard input, as on paiza.
+Most solutions read from standard input, as on paiza.
 
-```sh
-node algorithms/binary-search/<file>.js < input.txt
+```
+node <filename>.js
 ```
